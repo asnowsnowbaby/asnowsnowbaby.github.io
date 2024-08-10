@@ -1,8 +1,3 @@
 ---
-title: "Welcome to my blog"
+title: "This is a useful one"
 ---
-
-I'm glad you are here. I plan to talk about ...
-my learning of coding!
-my name is Snow
-I'm new comer of github
